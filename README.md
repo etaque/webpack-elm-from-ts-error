@@ -1,6 +1,6 @@
 # Can't require Elm from Typescript
 
-```bash
+```
 elm package install -y
 yarn install
 yarn start # webpack
